@@ -2,4 +2,4 @@
 
 For bulding docker container:
 
-`docker build -t geopsy_docker .`
+`docker build -t geopsy .`
