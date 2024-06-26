@@ -3,7 +3,7 @@ FROM rabits/qt:5.14-desktop
 LABEL IMAGE_NAME=""
 LABEL MAINTAINER=""
 
-COPY geopsypack-src-3.4.2.tar.gz /home/user/
+RUN wget --no-check-certificate https://www.geopsy.org/download/archives/geopsypack-src-3.4.2.tar.gz
 
 RUN sudo apt update \
  && sudo apt upgrade --yes \
