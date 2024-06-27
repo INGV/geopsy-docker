@@ -27,7 +27,7 @@ docker run --rm -it -e DISPLAY=${MYIP}:0 --mount type=bind,source=/tmp/.X11-unix
 ## Contribute
 Thanks to your contributions!
 
-Here is a list of users who already contributed to this repository:
+Here is a list of users who already contributed to this repository: \
 <a href="https://github.com/ingv/geopsy-docker/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ingv/geopsy-docker" />
 </a>
