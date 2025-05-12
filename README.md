@@ -1,6 +1,6 @@
 # geopsy-docker
 
-## Getting start
+## Getting started
 
 ### For bulding docker container:
 ```sh
